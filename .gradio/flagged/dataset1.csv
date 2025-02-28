@@ -1,0 +1,2 @@
+audio_filepath,image_filepath,Speech to Text,Doctor's Response,output 2,timestamp
+.gradio\flagged\audio_filepath\5048ffccec22013126c6\audio.wav,.gradio\flagged\image_filepath\2da4b94869cd2ab84c5b\image_2025-02-26_203415654.png," Hey Doctor, what is in my head?","With what I see, I think you have dandruff, a common condition that causes flakes to form on the scalp. Treatment options include medicated shampoos, scalp sprays, and topical treatments like ketoconazole, selenium sulfide, or zinc pyrithione; antifungal shampoos may also help.",,2025-02-26 20:35:05.038187
